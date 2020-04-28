@@ -3,7 +3,7 @@
 
 # Dicee Flutter App
 
-A new Flutter application.
+A simple clickable dicee app which changes their dice with every click.
 
 ## Getting Started
 
